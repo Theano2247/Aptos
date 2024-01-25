@@ -1,4 +1,4 @@
-This is a repository to provide a link to Aptos Transaction Feed. 
+**This is a repository to provide a link to Aptos Transaction Feed.**
 
 Please check out here: 
 --> https://kernelstree.herokuapp.com/join/fusodoru
